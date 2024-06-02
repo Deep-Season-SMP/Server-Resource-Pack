@@ -6,6 +6,6 @@
   "overrides": [
     { "predicate": { "custom_model_data": 2401 }, "model": "deepseason_foods:item/chocolate_bar" },
     { "predicate": { "custom_model_data": 2402 }, "model": "deepseason_foods:item/dasani" },
-    { "predicate": { "custom_model_data": 2402 }, "model": "deepseason_foods:item/soda_can" }
+    { "predicate": { "custom_model_data": 2403 }, "model": "deepseason_foods:item/soda_can" }
   ]
 }
