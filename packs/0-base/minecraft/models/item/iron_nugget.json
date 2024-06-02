@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/iron_nugget"
   },
   "overrides": [
+    { "predicate": { "custom_model_data": 2479 }, "model": "deepseason_nfi:item/deep_coin" },
     { "predicate": { "custom_model_data": 4585 }, "model": "deepseason_nfi:item/5_chip" }
   ]
 }
