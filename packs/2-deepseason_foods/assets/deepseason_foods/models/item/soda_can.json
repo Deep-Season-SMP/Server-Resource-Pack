@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "deepseason_foods:item/chocolate_bar"
+		"layer0": "deepseason_foods:item/soda_can"
 	}
 }
