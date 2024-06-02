@@ -2,7 +2,7 @@
 	"credit": "Made by TheWander02",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "deepseason_nfi:item/coin"
+		"2": "deepseason_nfi:item/deep_coin"
 	},
 	"elements": [
 		{
