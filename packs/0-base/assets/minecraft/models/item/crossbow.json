@@ -107,6 +107,7 @@
       },
       "model": "item/crossbow_firework"
     },
-    { "predicate": { "custom_model_data": 7385 }, "model": "deepseason:item/handgun" }
+    { "predicate": { "custom_model_data": 7385 }, "model": "deepseason:item/handgun" },
+    { "predicate": { "custom_model_data": 7386 }, "model": "deepseason:item/handgun_2" }
   ]
 }
