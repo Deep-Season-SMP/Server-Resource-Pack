@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_porkchop"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 2401 }, "model": "deepseason_foods:item/chocolate_bar" },
+    { "predicate": { "custom_model_data": 2402 }, "model": "deepseason_foods:item/dasani" },
+    { "predicate": { "custom_model_data": 2403 }, "model": "deepseason_foods:item/soda_can" },
+    { "predicate": { "custom_model_data": 2404 }, "model": "deepseason_foods:item/oreo" },
+    { "predicate": { "custom_model_data": 2405 }, "model": "deepseason_foods:item/oreo_2x" }
+  ]
+}
