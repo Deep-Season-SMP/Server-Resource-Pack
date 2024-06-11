@@ -1,1 +1,6 @@
-file:///home/thewander02/Documents/Projects/Personal/Minecraft/Deep%20Season/Server-Resource-Pack/packs/1-deepseason_nfi/assets/deepseason_nfi/textures/item/nfi_sword.png.mcmeta
+{
+    "animation": {
+      "frametime": 20,
+      "interpolate": true
+    }
+}
