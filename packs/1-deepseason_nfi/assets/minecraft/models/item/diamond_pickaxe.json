@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/diamond_pickaxe"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 8400 }, "model": "deepseason_nfi:item/nfi_pickaxe" }
+    { "predicate": { "custom_model_data": 8400 }, "model": "deepseason_nfi:item/nfi_pickaxe" },
+    { "predicate": { "custom_model_data": 77771 }, "model": "deepseason_nfi:item/ryan_pickaxe_1" },
+    { "predicate": { "custom_model_data": 77772 }, "model": "deepseason_nfi:item/ryan_pickaxe_2" }
   ]
 }

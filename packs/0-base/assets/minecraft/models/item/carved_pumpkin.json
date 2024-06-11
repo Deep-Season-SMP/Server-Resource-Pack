@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+    "overrides": [
+        { "predicate": { "custom_model_data": 3428 }, "model": "deepseason:block/clay" }
+    ]
+}

@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/netherite_hoe"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 8400 }, "model": "deepseason_nfi:item/nfi_hoe" }
+    { "predicate": { "custom_model_data": 8400 }, "model": "deepseason_nfi:item/nfi_hoe" },
+    { "predicate": { "custom_model_data": 7777 }, "model": "deepseason_nfi:item/ryan_hoe" }
   ]
 }

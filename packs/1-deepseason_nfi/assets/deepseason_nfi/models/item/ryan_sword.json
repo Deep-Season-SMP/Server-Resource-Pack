@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "deepseason_nfi:item/ryan_sword"
+	}
+}
