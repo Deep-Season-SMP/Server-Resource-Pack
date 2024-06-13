@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "deepseason_nfi:item/ryan_pickaxe_1"
+		"layer0": "deepseason_nfi:item/wander_pickaxe_1"
 	}
 }
