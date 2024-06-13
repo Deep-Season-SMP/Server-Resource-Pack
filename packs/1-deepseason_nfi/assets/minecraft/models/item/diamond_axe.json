@@ -5,6 +5,8 @@
   },
   "overrides": [
     { "predicate": { "custom_model_data": 8400 }, "model": "deepseason_nfi:item/nfi_axe" },
-    { "predicate": { "custom_model_data": 77771 }, "model": "deepseason_nfi:item/ryan_axe" }
+    { "predicate": { "custom_model_data": 77771 }, "model": "deepseason_nfi:item/ryan_axe" },
+    { "predicate": { "custom_model_data": 84001 }, "model": "deepseason_nfi:item/wander_axe" },
+    { "predicate": { "custom_model_data": 84002 }, "model": "deepseason_nfi:item/william_axe" }
   ]
 }

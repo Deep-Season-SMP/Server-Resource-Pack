@@ -6,6 +6,10 @@
   "overrides": [
     { "predicate": { "custom_model_data": 8400 }, "model": "deepseason_nfi:item/nfi_pickaxe" },
     { "predicate": { "custom_model_data": 77771 }, "model": "deepseason_nfi:item/ryan_pickaxe_1" },
-    { "predicate": { "custom_model_data": 77772 }, "model": "deepseason_nfi:item/ryan_pickaxe_2" }
+    { "predicate": { "custom_model_data": 77772 }, "model": "deepseason_nfi:item/ryan_pickaxe_2" },
+    { "predicate": { "custom_model_data": 84001 }, "model": "deepseason_nfi:item/wander_pickaxe_1" },
+    { "predicate": { "custom_model_data": 84002 }, "model": "deepseason_nfi:item/william_pickaxe_1" },
+    { "predicate": { "custom_model_data": 840011 }, "model": "deepseason_nfi:item/wander_pickaxe_2" },
+    { "predicate": { "custom_model_data": 840022 }, "model": "deepseason_nfi:item/william_pickaxe_2" }
   ]
 }
