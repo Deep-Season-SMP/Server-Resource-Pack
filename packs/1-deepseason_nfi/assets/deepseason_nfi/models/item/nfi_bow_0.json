@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
-    "texture_size": [32, 32],
+    "texture_size": [32, 128],
 	"textures": {
 		"layer0": "deepseason_nfi:item/nfi_bow_0"
 	},
