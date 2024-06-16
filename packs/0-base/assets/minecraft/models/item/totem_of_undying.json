@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": { "custom_model_data": 8400 }, "model": "deepseason:item/sus" },
-        { "predicate": { "custom_model_data": 8401 }, "model": "deepseason:item/sus_fpv" }
+        { "predicate": { "custom_model_data": 8401 }, "model": "deepseason:item/sus_fpv" },
+        { "predicate": { "custom_model_data": 7777 }, "model": "deepseason:item/sus_fpvl" }
     ]
 }
