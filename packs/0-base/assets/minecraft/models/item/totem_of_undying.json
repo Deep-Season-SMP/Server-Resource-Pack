@@ -4,6 +4,7 @@
       "layer0": "minecraft:item/totem_of_undying"
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 8400 }, "model": "deepseason:item/sus" }
+        { "predicate": { "custom_model_data": 8400 }, "model": "deepseason:item/sus" },
+        { "predicate": { "custom_model_data": 8401 }, "model": "deepseason:item/sus_fpv" }
     ]
 }
