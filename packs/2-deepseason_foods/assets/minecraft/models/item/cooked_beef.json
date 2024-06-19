@@ -4,6 +4,6 @@
       "layer0": "minecraft:item/cooked_beef"
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 3396 }, "model": "deepseason:block/pizza" }
+        { "predicate": { "custom_model_data": 3396 }, "model": "deepseason_foods:block/pizza" }
     ]
 }

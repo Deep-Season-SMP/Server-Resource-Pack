@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "deepseason:item/pie",
-		"1": "deepseason:item/crust",
-		"particle": "deepseason:item/pie"
+		"0": "deepseason_foods:item/pie",
+		"1": "deepseason_foods:item/crust",
+		"particle": "deepseason_foods:item/pie"
 	},
 	"elements": [
 		{
