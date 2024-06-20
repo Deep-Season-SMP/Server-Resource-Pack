@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "deepseason_nfi:item/deep_coin"
+		"layer0": "deepseason_nfi:item/dark_coin"
 	},
 	"display": {
 		"thirdperson_righthand": {
