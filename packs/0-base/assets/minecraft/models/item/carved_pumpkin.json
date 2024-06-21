@@ -2,10 +2,10 @@
     "parent": "minecraft:block/carved_pumpkin",
     "overrides": [
         { "predicate": { "custom_model_data": 3428 }, "model": "deepseason:block/clay" },
+        { "predicate": { "custom_model_data": 6814 }, "model": "deepseason:block/prop_hat" },
         { "predicate": { "custom_model_data": 8401 }, "model": "deepseason:block/n" },
         { "predicate": { "custom_model_data": 8402 }, "model": "deepseason:block/f" },
         { "predicate": { "custom_model_data": 8403 }, "model": "deepseason:block/i" },
-        { "predicate": { "custom_model_data": 9452 }, "model": "deepseason:block/hat" },
-        { "predicate": { "custom_model_data": 6814 }, "model": "deepseason:block/prop_hat" }
+        { "predicate": { "custom_model_data": 9452 }, "model": "deepseason:block/hat" }
     ]
 }
