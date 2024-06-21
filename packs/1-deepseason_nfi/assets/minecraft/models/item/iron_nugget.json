@@ -5,10 +5,10 @@
   },
   "overrides": [
     { "predicate": { "custom_model_data": 2479 }, "model": "deepseason_nfi:item/deep_coin" },
-    { "predicate": { "custom_model_data": 9742 }, "model": "deepseason_nfi:item/dark_coin" },
     { "predicate": { "custom_model_data": 6005 }, "model": "deepseason_nfi:item/5_chip" },
     { "predicate": { "custom_model_data": 6010 }, "model": "deepseason_nfi:item/10_chip" },
     { "predicate": { "custom_model_data": 6025 }, "model": "deepseason_nfi:item/25_chip" },
-    { "predicate": { "custom_model_data": 6050 }, "model": "deepseason_nfi:item/50_chip" }
+    { "predicate": { "custom_model_data": 6050 }, "model": "deepseason_nfi:item/50_chip" },
+    { "predicate": { "custom_model_data": 9742 }, "model": "deepseason_nfi:item/dark_coin" }
   ]
 }
