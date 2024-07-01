@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "deepseason_foods:item/burger"
+		"layer0": "deepseason_foods:item/fries"
 	}
 }
