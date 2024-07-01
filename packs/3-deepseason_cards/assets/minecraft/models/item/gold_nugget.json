@@ -30,6 +30,6 @@
     { "predicate": { "custom_model_data": 610 }, "model": "deepseason_cards:item/10_d" },
     { "predicate": { "custom_model_data": 611 }, "model": "deepseason_cards:item/j_d" },
     { "predicate": { "custom_model_data": 612 }, "model": "deepseason_cards:item/q_d" },
-    { "predicate": { "custom_model_data": 613 }, "model": "deepseason_cards:item/k_d" },
+    { "predicate": { "custom_model_data": 613 }, "model": "deepseason_cards:item/k_d" }
   ]
 }
