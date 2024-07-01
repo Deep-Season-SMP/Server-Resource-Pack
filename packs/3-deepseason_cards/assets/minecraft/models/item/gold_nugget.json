@@ -5,17 +5,17 @@
   },
   "overrides": [
     { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/a_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/2_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/3_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/4_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/5_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/6_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/7_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/8_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/9_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/10_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/j_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/q_h" },
-    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/k_h" }
+    { "predicate": { "custom_model_data": 502 }, "model": "deepseason_cards:item/2_h" },
+    { "predicate": { "custom_model_data": 503 }, "model": "deepseason_cards:item/3_h" },
+    { "predicate": { "custom_model_data": 504 }, "model": "deepseason_cards:item/4_h" },
+    { "predicate": { "custom_model_data": 505 }, "model": "deepseason_cards:item/5_h" },
+    { "predicate": { "custom_model_data": 506 }, "model": "deepseason_cards:item/6_h" },
+    { "predicate": { "custom_model_data": 507 }, "model": "deepseason_cards:item/7_h" },
+    { "predicate": { "custom_model_data": 508 }, "model": "deepseason_cards:item/8_h" },
+    { "predicate": { "custom_model_data": 509 }, "model": "deepseason_cards:item/9_h" },
+    { "predicate": { "custom_model_data": 510 }, "model": "deepseason_cards:item/10_h" },
+    { "predicate": { "custom_model_data": 511 }, "model": "deepseason_cards:item/j_h" },
+    { "predicate": { "custom_model_data": 512 }, "model": "deepseason_cards:item/q_h" },
+    { "predicate": { "custom_model_data": 513 }, "model": "deepseason_cards:item/k_h" }
   ]
 }
