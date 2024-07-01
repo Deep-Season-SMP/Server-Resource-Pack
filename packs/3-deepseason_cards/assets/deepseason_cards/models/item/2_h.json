@@ -4,7 +4,7 @@
 	"gui_light": "front",
 	"textures": {
 		"0": "deepseason_cards:item/2_h",
-		"particle": "2_h"
+		"particle": "deepseason_cards:item/2_h"
 	},
 	"elements": [
 		{

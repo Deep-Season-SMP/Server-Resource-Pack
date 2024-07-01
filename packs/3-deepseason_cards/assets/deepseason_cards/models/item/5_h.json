@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"gui_light": "front",
 	"textures": {
-		"0": "5_h",
-		"particle": "5_h"
+		"0": "deepseason_cards:item/5_h",
+		"particle": "deepseason_cards:item/5_h"
 	},
 	"elements": [
 		{
