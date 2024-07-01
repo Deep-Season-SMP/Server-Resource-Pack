@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gold_nugget"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/a_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/2_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/3_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/4_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/5_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/6_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/7_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/8_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/9_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/10_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/j_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/q_h" },
+    { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/k_h" }
+  ]
+}
