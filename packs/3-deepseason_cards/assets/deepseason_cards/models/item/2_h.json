@@ -5,6 +5,7 @@
 		"0": "deepseason_cards:item/2_h",
 		"particle": "deepseason_cards:item/2_h"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [4, 0, 0],
