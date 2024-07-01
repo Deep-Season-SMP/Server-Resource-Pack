@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/iron_nugget"
+    "layer0": "minecraft:item/iron_ingot"
   },
   "overrides": [
     { "predicate": { "custom_model_data": 16600 }, "model": "deepseason_cards:item/2_h" }
