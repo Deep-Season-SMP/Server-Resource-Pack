@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
+	"gui_light": "front",
 	"textures": {
-		"0": "deepseason_cards:item/7_h",
-		"particle": "deepseason_cards:item/7_h"
+		"0": "7_h",
+		"particle": "7_h"
 	},
 	"elements": [
 		{
