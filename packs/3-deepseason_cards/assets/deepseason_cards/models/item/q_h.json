@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "q_h",
-		"particle": "q_h"
+		"0": "deepseason_cards:item/q_h",
+		"particle": "deepseason_cards:item/q_h"
 	},
 	"elements": [
 		{
