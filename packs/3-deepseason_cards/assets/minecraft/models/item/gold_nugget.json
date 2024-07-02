@@ -44,6 +44,20 @@
     { "predicate": { "custom_model_data": 710 }, "model": "deepseason_cards:item/10_c" },
     { "predicate": { "custom_model_data": 711 }, "model": "deepseason_cards:item/j_c" },
     { "predicate": { "custom_model_data": 712 }, "model": "deepseason_cards:item/q_c" },
-    { "predicate": { "custom_model_data": 713 }, "model": "deepseason_cards:item/k_c" }
+    { "predicate": { "custom_model_data": 713 }, "model": "deepseason_cards:item/k_c" },
+
+    { "predicate": { "custom_model_data": 801 }, "model": "deepseason_cards:item/a_s" },
+    { "predicate": { "custom_model_data": 802 }, "model": "deepseason_cards:item/2_s" },
+    { "predicate": { "custom_model_data": 803 }, "model": "deepseason_cards:item/3_s" },
+    { "predicate": { "custom_model_data": 804 }, "model": "deepseason_cards:item/4_s" },
+    { "predicate": { "custom_model_data": 805 }, "model": "deepseason_cards:item/5_s" },
+    { "predicate": { "custom_model_data": 806 }, "model": "deepseason_cards:item/6_s" },
+    { "predicate": { "custom_model_data": 807 }, "model": "deepseason_cards:item/7_s" },
+    { "predicate": { "custom_model_data": 808 }, "model": "deepseason_cards:item/8_s" },
+    { "predicate": { "custom_model_data": 809 }, "model": "deepseason_cards:item/9_s" },
+    { "predicate": { "custom_model_data": 810 }, "model": "deepseason_cards:item/10_s" },
+    { "predicate": { "custom_model_data": 811 }, "model": "deepseason_cards:item/j_s" },
+    { "predicate": { "custom_model_data": 812 }, "model": "deepseason_cards:item/q_s" },
+    { "predicate": { "custom_model_data": 813 }, "model": "deepseason_cards:item/k_s" }
   ]
 }
