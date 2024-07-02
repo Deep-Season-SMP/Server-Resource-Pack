@@ -44,6 +44,6 @@
     { "predicate": { "custom_model_data": 710 }, "model": "deepseason_cards:item/10_c" },
     { "predicate": { "custom_model_data": 711 }, "model": "deepseason_cards:item/j_c" },
     { "predicate": { "custom_model_data": 712 }, "model": "deepseason_cards:item/q_c" },
-    { "predicate": { "custom_model_data": 713 }, "model": "deepseason_cards:item/k_c" },
+    { "predicate": { "custom_model_data": 713 }, "model": "deepseason_cards:item/k_c" }
   ]
 }
