@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/gold_nugget"
   },
   "overrides": [
+    { "predicate": { "custom_model_data": 401 }, "model": "deepseason_cards:item/chip_25" },
     { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/a_h" },
     { "predicate": { "custom_model_data": 502 }, "model": "deepseason_cards:item/2_h" },
     { "predicate": { "custom_model_data": 503 }, "model": "deepseason_cards:item/3_h" },
