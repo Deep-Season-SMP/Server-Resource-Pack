@@ -7,6 +7,7 @@
     { "predicate": { "custom_model_data": 401 }, "model": "deepseason_cards:item/chip_5" },
     { "predicate": { "custom_model_data": 402 }, "model": "deepseason_cards:item/chip_10" },
     { "predicate": { "custom_model_data": 403 }, "model": "deepseason_cards:item/chip_25" },
+    { "predicate": { "custom_model_data": 404 }, "model": "deepseason_cards:item/chip_100" },
 
     { "predicate": { "custom_model_data": 501 }, "model": "deepseason_cards:item/a_h" },
     { "predicate": { "custom_model_data": 502 }, "model": "deepseason_cards:item/2_h" },
