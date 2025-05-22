@@ -1,0 +1,20 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "index": 0,
+        "entries": [
+            {
+                "threshold": 1169000,
+                "model": {
+                    "type": "model",    
+                    "model": "deepseason_guild:item/currency/silver_piece"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:block/command_block"
+        }
+    }
+}

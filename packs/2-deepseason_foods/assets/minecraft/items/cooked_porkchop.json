@@ -1,0 +1,48 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "index": 0,
+        "entries": [
+            {
+                "threshold": 1170000,
+                "model": {
+                    "type": "model",
+                    "model": "deepseason_foods:item/chocolate_bar"
+                }
+            },
+            {
+                "threshold": 1170001,
+                "model": {
+                    "type": "model",
+                    "model": "deepseason_foods:item/dasani"
+                }
+            },
+            {
+                "threshold": 1170002,
+                "model": {
+                    "type": "model",
+                    "model": "deepseason_foods:item/soda_can"
+                }
+            },
+            {
+                "threshold": 1170003,
+                "model": {
+                    "type": "model",
+                    "model": "deepseason_foods:item/oreo"
+                }
+            },
+            {
+                "threshold": 1170004,
+                "model": {
+                    "type": "model",
+                    "model": "deepseason_foods:item/oreo_2x"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/cooked_porkchop"
+        }
+    }
+}
