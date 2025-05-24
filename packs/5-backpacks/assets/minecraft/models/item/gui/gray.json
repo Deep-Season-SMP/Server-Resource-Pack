@@ -1,0 +1,13 @@
+{
+	"parent": "item/gui/parent",
+	"textures": {
+		"tab": "item/backpack/gui/gray"
+	},
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [63, -17, -80],
+			"scale": [4, 4, 4]
+		}
+	}
+}

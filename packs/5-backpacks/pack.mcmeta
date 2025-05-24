@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 34,
+    "pack_format": 55,
     "description": [
       {
-        "text": "Version 1",
-        "color": "#DEA270",
+        "text": "Version 2",
+        "color": "#A2666D",
         "italic": false
       },
       {
@@ -13,8 +13,8 @@
         "italic": false
       },
       {
-        "text": "[1.21.1]",
-        "color": "#DEA270",
+        "text": "[1.21.5]",
+        "color": "#A2666D",
         "italic": false
       },
       {
@@ -23,8 +23,8 @@
         "italic": false
       },
       {
-        "text": "@Minho",
-        "color": "#DEA270",
+        "text": "@MinhoCreates",
+        "color": "#A97A52",
         "italic": false
       }
     ]
