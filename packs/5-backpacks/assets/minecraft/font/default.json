@@ -1,0 +1,256 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/generic.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/generic.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/black.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/black.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/blue.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/blue.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/brown.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/brown.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/cyan.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/cyan.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE00A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/gray.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE00B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/gray.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE00C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/green.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE00D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/green.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE00E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/light_blue.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE00F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/light_blue.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/light_gray.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/light_gray.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/lime.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/lime.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/orange.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/orange.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE016"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/pink.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE017"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/pink.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE018"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/purple.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE019"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/purple.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE01A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/red.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE01B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/red.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE01C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/white.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE01D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/white.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE01E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/yellow.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE01F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/yellow.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE020"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/magenta.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE021"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/magenta.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE022"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/slots/caramel.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE023"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badges/colors/open/caramel.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE024"]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": [
+      {
+        "text": "Version 1",
+        "color": "#DEA270",
+        "italic": false
+      },
+      {
+        "text": " | For ",
+        "color": "gray",
+        "italic": false
+      },
+      {
+        "text": "[1.21.1]",
+        "color": "#DEA270",
+        "italic": false
+      },
+      {
+        "text": "\nMade by ",
+        "color": "gray",
+        "italic": false
+      },
+      {
+        "text": "@Minho",
+        "color": "#DEA270",
+        "italic": false
+      }
+    ]
+  }
+}
